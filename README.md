@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GrifinHelix
-- 👀 I’m interested in ...Got no idea about what should i be interested in lol.
-- 🌱 I’m currently learning ...PHP and C++ because why not.
+- 👋 Hi, I’m @Namirna
+- 👀 I’m interested in ...All kinds of Data. :)
+- 🌱 I’m currently learning ...C# and SQL because why not.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
